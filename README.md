@@ -19,6 +19,8 @@ local file system
 
 ## How to contribute
 
+Please fork this repositoty and then issue Pull Requests for review.
+
 #### Copyright
 
 2014 Git.Training again
